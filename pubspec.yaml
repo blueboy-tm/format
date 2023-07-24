@@ -11,7 +11,7 @@ dependencies:
   dart_code_metrics:
     git:
       url:  https://github.com/blueboy-tm/dart-code-metrics.git
-      ref:  231e6650a2fb2cf2009d8f24b9f8d09a45def110
+      ref:  be4e5dee59d690038c11061dda3865a0fd8f4503
   intl: any
 
 dev_dependencies:

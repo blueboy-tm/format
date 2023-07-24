@@ -9,9 +9,9 @@ environment:
 dependencies:
   characters: ^1.3.0
   dart_code_metrics:
-  git:
-    url:  https://github.com/blueboy-tm/dart-code-metrics.git
-    ref:  231e6650a2fb2cf2009d8f24b9f8d09a45def110
+    git:
+      url:  https://github.com/blueboy-tm/dart-code-metrics.git
+      ref:  231e6650a2fb2cf2009d8f24b9f8d09a45def110
   intl: any
 
 dev_dependencies:
